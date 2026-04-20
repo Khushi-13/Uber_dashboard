@@ -1,4 +1,4 @@
-# 🚖 Uber Analytics Dashboard (Power BI)
+# 🚖 Uber Analytics Dashboard 
 
 A complete **end-to-end Power BI project** that analyzes Uber trip data to uncover insights on bookings, revenue, distance, and customer behavior. This dashboard demonstrates strong **data visualization, DAX, and business intelligence skills**.
 
